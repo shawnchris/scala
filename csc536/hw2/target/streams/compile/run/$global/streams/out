@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mRunning snapshot.Server [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\org.scala-lang.modules\scala-java8-compat_2.11\bundles\scala-java8-compat_2.11-0.7.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread TokenRing-akka.actor.default-dispatcher-5 to terminate.[0m

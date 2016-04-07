@@ -1,0 +1,347 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes
+compile options:
+2 items
+0 -> -unchecked
+1 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Init$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Init.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Marker$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Marker.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Processor$$anonfun$receive$1.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Processor.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Server$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Server$delayedInit$body.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Server.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token1$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token1.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token2$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token2.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Init$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Init.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Processor$$anonfun$receive$1.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Processor.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Server$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Server$delayedInit$body.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Server.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token1$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token1.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token2$.class
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token2.class
+binary dependencies:
+6 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Init
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Init$
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Marker
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Marker$
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Processor
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Processor$$anonfun$receive$1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Server
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Server$
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Server$delayedInit$body
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Token1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Token1$
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Token2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot.Token2$
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Init
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Init$
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Processor
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Processor$$anonfun$receive$1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Server
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Server$
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Server$delayedInit$body
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Token1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Token1$
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Token2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token.Token2$
+used names:
+189 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> !
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> &&
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> +
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> <init>
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> ==
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> A1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> AbstractFunction2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Actor
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> ActorSelection
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> ActorSystem
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> App
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> B1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> ClassTag
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Function1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Init
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Marker
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> None
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Predef
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Processor
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Product
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Props
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> ScalaRunTime
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Serializable
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Server
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> String
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Thread
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Token1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> Token2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> _1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> _2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> _hashCode
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> _toString
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actor
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actor1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actor2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actor3
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actorOf
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actorRef2Scala
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> actorSelection
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> akka
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> apply
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> context
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> eq
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> inTransit
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> inTransit_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> java
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> lang
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> materializeClassTag
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> name
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> nextToken1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> nextToken1_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> nextToken2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> nextToken2_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> package
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> path
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> println
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> qual$1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> qual$2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> qual$3
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> qual$4
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> qual$5
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> qual$6
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> receiver
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> recordChannel1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> recordChannel1_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> recordChannel2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> recordChannel2_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> runtime
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> scala
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> self
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> sender
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> sentChannel1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> sentChannel1_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> sentChannel2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> sentChannel2_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> sleep
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshot
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshotStarted
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshotStarted_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshotState
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> snapshotState_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> state
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> state_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> system
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> toScala
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> toString
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> typedProductIterator
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> unary_!
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> unchecked
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$1
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$10
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$11
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$12
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$2
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$3
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$4
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$5
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$6
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$7
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$8
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> x$9
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> ||
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> !
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> &&
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> +
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> <init>
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> ==
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> A1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> AbstractFunction2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Actor
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> ActorSelection
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> ActorSystem
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> App
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> B1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> ClassTag
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Function1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Init
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> None
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Predef
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Processor
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Product
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Props
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> ScalaRunTime
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Serializable
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Server
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> String
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Thread
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Token1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> Token2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> _1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> _2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> _hashCode
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> _toString
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actor
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actor1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actor2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actor3
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actorOf
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actorRef2Scala
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> actorSelection
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> akka
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> apply
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> context
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> eq
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> java
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> lang
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> materializeClassTag
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> name
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> nextToken1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> nextToken1_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> nextToken2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> nextToken2_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> package
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> path
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> println
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> qual$1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> qual$2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> qual$3
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> qual$4
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> qual$5
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> receiver
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> runtime
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> scala
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> self
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> sender
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> sleep
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> state
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> state_=
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> system
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> toScala
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> toString
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> token
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> typedProductIterator
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> unchecked
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$1
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$10
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$2
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$3
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$4
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$5
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$6
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$7
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$8
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> x$9
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> ||
+product stamps:
+24 items
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Init$.class -> lastModified(1460064819024)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Init.class -> lastModified(1460064819015)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Marker$.class -> lastModified(1460064819033)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Marker.class -> lastModified(1460064819028)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Processor$$anonfun$receive$1.class -> lastModified(1460064819083)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Processor.class -> lastModified(1460064819058)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Server$.class -> lastModified(1460064819108)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Server$delayedInit$body.class -> lastModified(1460064819112)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Server.class -> lastModified(1460064819088)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token1$.class -> lastModified(1460064819135)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token1.class -> lastModified(1460064819130)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token2$.class -> lastModified(1460064819145)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\snapshot\Token2.class -> lastModified(1460064819141)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Init$.class -> lastModified(1460064819159)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Init.class -> lastModified(1460064819154)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Processor$$anonfun$receive$1.class -> lastModified(1460064819186)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Processor.class -> lastModified(1460064819167)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Server$.class -> lastModified(1460064819199)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Server$delayedInit$body.class -> lastModified(1460064819201)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Server.class -> lastModified(1460064819189)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token1$.class -> lastModified(1460064819206)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token1.class -> lastModified(1460064819203)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token2$.class -> lastModified(1460064819209)
+D:\Repositories\scala\csc536\hw2\target\scala-2.11\classes\token\Token2.class -> lastModified(1460064819207)
+source stamps:
+2 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> hash(95c303392ba68002c0bfe367efdbf498d898bc30)
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> hash(e3e44c92bcb1573369dc8ee418e30dea4b237cbe)
+binary stamps:
+3 items
+C:\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1416892106191)
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar -> lastModified(1459511187000)
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+C:\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar -> akka.actor.Actor
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.runtime.AbstractPartialFunction
+internal apis:
+2 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC57PpeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw668tinQABHNlbGZzcQB+AAt6WC4ydAAHY29udGV4dHVxAH4ACQAAAENzcQB+AAuBlwXxdAAGbm90aWZ5c3EAfgALaiR3B3QACm5leHRUb2tlbjJzcQB+AAvIhxyadAAHUmVjZWl2ZXNxAH4AC5iCeyJ0AAZhY3RvcjFzcQB+AAvhA5xDdAAEd2FpdHNxAH4AC8R6PnF0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC1e+Vqd0AA0kYXNJbnN0YW5jZU9mc3EAfgALI+V/GHQADnJlY29yZENoYW5uZWwxc3EAfgAL96D1X3QABnN5c3RlbXNxAH4AC3PDMa90AAVzdGF0ZXNxAH4ACxOu/c90AAZTZXJ2ZXJzcQB+AAsBn1H2dAAMcHJvZHVjdEFyaXR5c3EAfgAL4dy5KnQADHNlbnRDaGFubmVsMXNxAH4AC5hJVwp0AAlQcm9jZXNzb3JzcQB+AAv3SuPsdAAGZXF1YWxzc3EAfgALiJjA5HQABlRva2VuMnNxAH4AC60tWfZ0AAxhc0luc3RhbmNlT2ZzcQB+AAvAFrchdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAs7rAHkdAAESW5pdHNxAH4AC1FfCVd0AAxzeW5jaHJvbml6ZWRzcQB+AAsTnrredAANJGlzSW5zdGFuY2VPZnNxAH4ACxJvCZN0AAdyZWNlaXZlc3EAfgALWPnwkXQADXNuYXBzaG90U3RhdGVzcQB+AAvaaRADdAAKcHJlUmVzdGFydHNxAH4AC/Vu4tJ0AA1hcm91bmRSZWNlaXZlc3EAfgALkOiKH3QACGNhbkVxdWFsc3EAfgALcyz+YHQADHNlbnRDaGFubmVsMnNxAH4AC99Ao2V0AAtwb3N0UmVzdGFydHNxAH4AC/632Z90AARtYWluc3EAfgALNa4KgnQACHBvc3RTdG9wc3EAfgALIAIN/XQADXByb2R1Y3RQcmVmaXhzcQB+AAs9ldlLdAAJbm90aWZ5QWxsc3EAfgAL1IdJ43QAC3JlYWRSZXNvbHZlc3EAfgALmOZ6jHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALJk7j93QADGlzSW5zdGFuY2VPZnNxAH4ACywhukl0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL9gYJA3QACWluVHJhbnNpdHNxAH4AC4ErdJt0AA5hcm91bmRQb3N0U3RvcHNxAH4AC1H5tIt0AAY8aW5pdD5zcQB+AAv1auoSdAAIcHJlU3RhcnRzcQB+AAtkbm7VdAAJdW5oYW5kbGVkc3EAfgALUMGNonQAAj09c3EAfgALE4/Dv3QABWNsb25lc3EAfgAL0jb04nQAD3NuYXBzaG90U3RhcnRlZHNxAH4ACyngtrx0AAZhY3RvcjNzcQB+AAtlukYvdAAEY29weXNxAH4AC58iiih0AApuZXh0VG9rZW4xc3EAfgALucjC+nQABnNlbmRlcnNxAH4AC1/USGd0AAh0b1N0cmluZ3NxAH4ACzKXSkh0AARhcmdzc3EAfgALrAIJz3QAAiE9c3EAfgAL2J+z0nQABlRva2VuMXNxAH4AC8K034R0AA5yZWNvcmRDaGFubmVsMnNxAH4AC5XsQTR0AAhnZXRDbGFzc3NxAH4AC6OR+vN0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC8yHmYR0AAJuZXNxAH4AC3jSYXp0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuarvG/dAACZXFzcQB+AAsKUvpjdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALTcwsT3QAC2RlbGF5ZWRJbml0c3EAfgALF0XGcXQABmFjdG9yMnNxAH4AC5i5Pbp0AAIjI3NxAH4AC5bVBKh0AAhmaW5hbGl6ZXNxAH4AC4Q8LXN0AA5wcm9kdWN0RWxlbWVudHNxAH4AC0psh050AAhoYXNoQ29kZXNxAH4AC6Sl/kd0AA5hcm91bmRQcmVTdGFydHNxAH4AC14j9sJ0AAZNYXJrZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAGc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANc25hcHNob3QuSW5pdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aunhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AuQBwc3EAfgC+c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKFMAAlpbmhlcml0ZWRxAH4AoUwAB3BhcmVudHNxAH4AoXhxAH4AwnNxAH4AuQBwc3EAfgC+dXEAfgCcAAAAAHNxAH4AuQBwc3EAfgC+dXEAfgCcAAAAAHNxAH4AuQBwc3EAfgC+dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDBdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDBc3IADnhzYnRpLmFwaS5QYXR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bTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AbZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ALR0AAVQbGFpbnEAfgB1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDTWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDBc3EAfgDSdAAFQXJyYXlxAH4BxXVxAH4A0AAAAAFzcQB+ANJ0AAZTdHJpbmdzcQB+ANZzcQB+ANl1cQB+ANwAAAADc3EAfgDecQB+AOlzcQB+AN5xAH4A93EAfgDjc3EAfgC5AHBzcQB+AL51cQB+ANAAAAAEc3EAfgDSdAADQXBwcQB+AcVzcQB+ANJ0AAtEZWxheWVkSW5pdHEAfgHFc3EAfgDScQB+APFxAH4B4nNxAH4A0nEAfgD5cQB+AcV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAhzbmFwc2hvdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU/KlBiZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA6RDpcUmVwb3NpdG9yaWVzXHNjYWxhXGNzYzUzNlxodzJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJXDAzkrpoACwL/jZ+/b9JjYmLww
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDTZhwRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHnmUKnQABHNlbGZzcQB+AAvW+qKVdAAHY29udGV4dHVxAH4ACQAAADtzcQB+AAvj4G5xdAAGbm90aWZ5c3EAfgALGMfj73QACm5leHRUb2tlbjJzcQB+AAs3pT9adAAHUmVjZWl2ZXNxAH4ACxuM0Kd0AAZhY3RvcjFzcQB+AAsydNvcdAAEd2FpdHNxAH4AC+IgWWN0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC7uI8GB0AA0kYXNJbnN0YW5jZU9mc3EAfgALS/QPyXQABnN5c3RlbXNxAH4AC2V5j7x0AAVzdGF0ZXNxAH4AC3Fg8ud0AAZTZXJ2ZXJzcQB+AAvOkvrQdAAMcHJvZHVjdEFyaXR5c3EAfgALuvePRXQACVByb2Nlc3NvcnNxAH4ACxWHzYh0AAZlcXVhbHNzcQB+AAuhqL5HdAAGVG9rZW4yc3EAfgAL8REGo3QADGFzSW5zdGFuY2VPZnNxAH4AC07w5c10AA5leGVjdXRpb25TdGFydHNxAH4AC201sqB0AARJbml0c3EAfgALZn/LLXQADHN5bmNocm9uaXplZHNxAH4AC8o6gfV0AA0kaXNJbnN0YW5jZU9mc3EAfgALVTQ8E3QAB3JlY2VpdmVzcQB+AAtcm9TedAAKcHJlUmVzdGFydHNxAH4AC6DmVMV0AA1hcm91bmRSZWNlaXZlc3EAfgALkuw0C3QACGNhbkVxdWFsc3EAfgALa7PYNnQAC3Bvc3RSZXN0YXJ0c3EAfgAL1j7DkHQABG1haW5zcQB+AAsbtPw1dAAIcG9zdFN0b3BzcQB+AAu1+FGGdAANcHJvZHVjdFByZWZpeHNxAH4AC7yOm7F0AAlub3RpZnlBbGxzcQB+AAtAASYwdAALcmVhZFJlc29sdmVzcQB+AAtbMCdgdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAs6YbQUdAAMaXNJbnN0YW5jZU9mc3EAfgALkAF4VnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsM8C+KdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAtwf9mbdAAGPGluaXQ+c3EAfgALBHd7eHQACHByZVN0YXJ0c3EAfgAL99O/23QACXVuaGFuZGxlZHNxAH4AC+YxTXR0AAI9PXNxAH4AC5H8Mpl0AAVjbG9uZXNxAH4AC69Wd850AAZhY3RvcjNzcQB+AAuxlO+BdAAEY29weXNxAH4AC/rCJFp0AApuZXh0VG9rZW4xc3EAfgALxtLuhXQABnNlbmRlcnNxAH4ACwOod1J0AAh0b1N0cmluZ3NxAH4ACwfC6I50AARhcmdzc3EAfgALBrkHInQAAiE9c3EAfgALgGlpZnQABlRva2VuMXNxAH4ACx9+bah0AAhnZXRDbGFzc3NxAH4AC9d3pDt0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC3W7M990AAJuZXNxAH4AC3bLLDF0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuTopGWdAACZXFzcQB+AAtsi+tjdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALPLlM3nQAC2RlbGF5ZWRJbml0c3EAfgALhYZGw3QABmFjdG9yMnNxAH4AC+2roEp0AAIjI3NxAH4ACznzUKp0AAhmaW5hbGl6ZXNxAH4ACwISx4Z0AA5wcm9kdWN0RWxlbWVudHNxAH4ACziWLDt0AAhoYXNoQ29kZXNxAH4AC+QO/WZ0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAVzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AAp0b2tlbi5Jbml0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCqeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCpAHBzcQB+AK5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AkUwACWluaGVyaXRlZHEAfgCRTAAHcGFyZW50c3EAfgCReHEAfgCyc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALF0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM9zcQB+AMJxAH4AxXNxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM50AARqYXZhc3EAfgDOdAACaW9xAH4A03NxAH4AwnQAB1Byb2R1Y3RxAH4AyHNxAH4AwnQABkVxdWFsc3EAfgDIc3EAfgDCdAAGT2JqZWN0c3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDZc3EAfgDOdAAEbGFuZ3EAfgDTc3EAfgDCdAADQW55cQB+AMhzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4AdAAMdG9rZW4uVG9rZW4xdXEAfgChAAAAAH5xAH4Ao3QABk1vZHVsZXVxAH4ApwAAAABzcQB+AKkAcHNxAH4ArnEAfgCzc3EAfgCpAHBzcQB+AK5zcQB+ALZzcQB+AKkAcHNxAH4ArnVxAH4AjAAAAABzcQB+AKkAcHNxAH4ArnVxAH4AjAAAAABzcQB+AKkAcHNxAH4ArnVxAH4AwAAAAAZzcQB+AMJxAH4AxXNxAH4AxnNxAH4AyXVxAH4AzAAAAAJzcQB+AM5xAH4A0XEAfgDTc3EAfgDCcQB+AMVzcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOcQB+ANlzcQB+AM50AAJpb3EAfgDTc3EAfgDCcQB+AN1xAH4BAXNxAH4AwnQABkVxdWFsc3EAfgEBc3EAfgDCcQB+AOFzcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOcQB+ANlzcQB+AM5xAH4A53EAfgDTc3EAfgDCcQB+AOlxAH4BAXNxAH4AjnEAfgCbdXEAfgCcAAAAAHNxAH4AngB0AAx0b2tlbi5Ub2tlbjJ1cQB+AKEAAAAAcQB+AO91cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAAGc3EAfgDCcQB+AMVzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOcQB+ANFxAH4A03NxAH4AwnEAfgDFc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDZc3EAfgDOdAACaW9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lZEluaXRxAH4Bi3NxAH4AwnEAfgDhcQB+AahzcQB+AMJxAH4A6XEAfgGLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAFdG9rZW5zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVPypQYmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOkQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHcyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTj5EySvLFXM2ncjuQY4w3qSyN8vg==
+external apis:
+0 items
+source infos:
+2 items
+D:\Repositories\scala\csc536\hw2\src\main\scala\snapshot\snapshot.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw2\src\main\scala\token\token.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU/KdhVV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHcyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU/KlBiZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHcyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

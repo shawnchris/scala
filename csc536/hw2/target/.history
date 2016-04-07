@@ -1,0 +1,14 @@
+compile
+run
+compile
+run
+compile
+run
+compile force
+compile ?
+? compile
+help compile
+compile
+run
+compile
+run
