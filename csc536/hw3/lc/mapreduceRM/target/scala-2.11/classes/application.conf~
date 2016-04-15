@@ -1,0 +1,40 @@
+number-mappers = 2 
+number-reducers = 2
+number-remoteMappers=2
+number-remoteReducers=2
+number-summappers = 4
+number-sumreducers = 2
+server {
+  include "common"
+  akka {
+#    loglevel = "DEBUG"
+    actor {
+      provider = "akka.remote.RemoteActorRefProvider"
+    }
+    remote {
+      netty.tcp {
+        hostname = "127.0.0.1"
+        port = 2552
+      }
+#      log-sent-messages = on
+#      log-received-messages = on
+    }
+  }
+}
+remotelookup {
+  include "common"
+  akka {
+#    loglevel = "DEBUG"
+    actor {
+      provider = "akka.remote.RemoteActorRefProvider"
+    }
+    remote {
+      netty.tcp {
+        hostname = "127.0.0.1"
+        port = 0
+      }
+#      log-sent-messages = on
+#      log-received-messages = on
+    }
+  }
+}
