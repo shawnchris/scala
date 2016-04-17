@@ -1,0 +1,28 @@
+[0m[[0minfo[0m] [0mRunning Server [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	D:\Repositories\scala\csc536\hw3\mapreduce-remote\server\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\org.scala-lang.modules\scala-java8-compat_2.11\bundles\scala-java8-compat_2.11-0.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-protobuf_2.11\jars\akka-protobuf_2.11-2.4.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\io.netty\netty\bundles\netty-3.10.3.Final.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Shawn\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-f to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-f exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread New I/O boss #3 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread MapReduceSystem-10 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread MapReduceSystem-scheduler-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread MapReduceSystem-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread MapReduceSystem-akka.remote.default-remote-dispatcher-5 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread MapReduceSystem-akka.remote.default-remote-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread MapReduceSystem-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread MapReduceSystem-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread MapReduceSystem-9[0m
+[0m[[0mdebug[0m] [0m	Interrupted MapReduceSystem-9[0m
+[0m[[0mdebug[0m] [0mNot interrupting system thread Thread[Keep-Alive-Timer,8,system][0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Done.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Message.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MapActor$$anonfun$process$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MasterActor.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\ReduceActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Pair.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MasterActor$$anonfun$receive$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\ReduceActor$$anonfun$receive$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Pair$.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MapActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MapActor.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Done$.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Client.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Client$.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MasterActor$$anonfun$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\MapActor$$anonfun$receive$1.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Flush$.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\ReduceActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\ReduceActor.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Flush.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Message$.class, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes\Client$delayedInit$body.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\messages.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\reduceactor.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\masteractor.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\client.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\mapactor.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\messages.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\reduceactor.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\masteractor.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\client.scala, D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\src\main\scala\mapactor.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 61259845, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;C:\Java\jdk1.8.0_25\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\classes;C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Repositories\scala\csc536\hw3\mapreduce-remote\client\target\scala-2.11\classes;C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar;C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar;C:\Users\Shawn\.ivy2\cache\org.scala-lang.modules\scala-java8-compat_2.11\bundles\scala-java8-compat_2.11-0.7.0.jar;C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar;C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-protobuf_2.11\jars\akka-protobuf_2.11-2.4.3.jar;C:\Users\Shawn\.ivy2\cache\io.netty\netty\bundles\netty-3.10.3.Final.jar;C:\Users\Shawn\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.548081326 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

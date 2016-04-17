@@ -1,0 +1,16 @@
+compile
+run
+compile
+server/run
+client/run
+compile
+client/run
+compile
+client/run
+compile
+server/run
+client/run
+server/run
+client/run
+\\
+client/run
