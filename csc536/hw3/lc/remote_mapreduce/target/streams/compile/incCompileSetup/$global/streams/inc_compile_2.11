@@ -1,0 +1,667 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\Client$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\Client$delayedInit$body.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\Client.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor$$anonfun$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor$$anonfun$receive$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MapReduceApplication$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MapReduceApplication$delayedInit$body.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MapReduceApplication.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$2.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$3.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$4.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor$$anonfun$process$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor$$anonfun$receive$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddMapper$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddMapper.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddReducer$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddReducer.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Done$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Done.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Flush$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Flush.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\GetReducer$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\GetReducer.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Message$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Message.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Pair$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Pair.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Start$.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Start.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\ReduceActor$$anonfun$receive$1.class
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\ReduceActor.class
+binary dependencies:
+29 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> client.Client
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> client.Client$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> client.Client$delayedInit$body
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> client.ClientActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> client.ClientActor$$anonfun$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> client.ClientActor$$anonfun$receive$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> client.ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> server.MapReduceApplication
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> server.MapReduceApplication$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> server.MapReduceApplication$delayedInit$body
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$receive$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$receive$1$$anonfun$2
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$3
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server.MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$4
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> share.MapActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> share.MapActor$$anonfun$process$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> share.MapActor$$anonfun$receive$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> share.MapActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.AddMapper
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.AddMapper$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.AddReducer
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.AddReducer$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Done
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Done$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Flush
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Flush$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.GetReducer
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.GetReducer$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Message
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Message$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Pair
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Pair$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Start
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share.Start$
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> share.ReduceActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> share.ReduceActor$$anonfun$receive$1
+used names:
+372 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> ActorLogging
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> ActorSystem
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> AddressFromURIString
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> App
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> ClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> Client
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> ClientActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> ConfigFactory
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> Props
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> RemoteRouterConfig
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> RoundRobinPool
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> actorOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> apply
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> client
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> com
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> config
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> getConfig
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> load
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> materializeClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> println
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> remote
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> routing
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> system
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> typesafe
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> !
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> +
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ::
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> A1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ActorLogging
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ActorRef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ActorSelection
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ActorSystem
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> AddressFromURIString
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> B1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ClientActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ConfigFactory
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> Done
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> Function1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> Nil
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> Props
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ReduceActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> RemoteRouterConfig
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> RoundRobinPool
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> actorOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> actorRef2Scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> actorSelection
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> apply
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> client
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> com
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> config
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> context
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> foreach
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> getInt
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> i
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> immutable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> intWrapper
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> load
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> mapActors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> mapActors_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> master
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> materializeClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> ne
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> numberRemoteMappers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> numberRemoteReducers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> println
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> reduceActors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> reduceActors_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> reducers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> remote
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> routing
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> self
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> sender
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> share
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> toScala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> typesafe
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> unchecked
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> until
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> ActorLogging
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> ActorSystem
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> App
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> ClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> ConfigFactory
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> MapReduceApplication
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> MasterActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> Props
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> actorOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> apply
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> com
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> config
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> getConfig
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> load
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> master
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> materializeClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> println
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> server
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> share
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> system
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> typesafe
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> !
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> +
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> -
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ::
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> A1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ActorRef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> B1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Broadcast
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ConfigFactory
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Done
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Flush
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Function1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> List
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> MasterActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Nil
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Props
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ReduceActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> RemoteRouterConfig
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> RoundRobinPool
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Start
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> Thread
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> actorBroadCast
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> actorBroadCast_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> actorOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> actorRef2Scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> actors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> address
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> apply
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> canBuildFrom
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> client
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> clients
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> clients_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> com
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> config
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> context
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> empty
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> foreach
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> getInt
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> i
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> immutable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> intWrapper
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> java
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> lang
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> load
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> map
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> mapActors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> mapActors_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> materializeClassTag
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> ne
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> numberMappers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> numberMappers_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> numberReducers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> numberRemoteMappers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> numberRemoteReducers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> path
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> pending
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> pending_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> props
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> reduceActors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> reduceActors_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> remote
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> routing
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> self
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> sender
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> seq
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> server
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> share
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> shutdown
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> size
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> sleep
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> system
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> title
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> typesafe
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> unchecked
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> until
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> url
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> x
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> !
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> %
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> &&
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> +
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> ==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> A1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> ActorRef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> B1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Codec
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Flush
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Function1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> HashMap
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> List
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> MapActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Math
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> STOP_WORDS_LIST
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> Source
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> String
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> abs
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> actorRef2Scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> apply
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> collection
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> contains
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> content
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> fallbackSystemCodec
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> foreach
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> fromURL
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> hashCode
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> hashmap
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> i
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> immutable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> index
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> intWrapper
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> io
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> java
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> lang
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> matches
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> mkString
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> mutable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> name
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> ne
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> numReducers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> println
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> process
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> put
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> reduceActors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> refArrayOps
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> self
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> share
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> size
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> split
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> title
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> toLowerCase
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> unary_!
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> unchecked
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> until
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> url
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> &&
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> ==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> AbstractFunction1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> AbstractFunction2
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> ActorRef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> AddMapper
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> AddReducer
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Done
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Flush
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> GetReducer
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> List
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Message
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> None
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Pair
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Product
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Props
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> ScalaRunTime
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Serializable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> Start
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> String
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> _hashCode
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> _toString
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> actors
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> client
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> eq
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> name
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> runtime
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> share
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> title
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> toString
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> typedProductIterator
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> url
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> ||
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> !
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> +
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> +=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> -
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ->
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ::
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> <init>
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> A1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> Actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ActorRef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> B1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ConfigFactory
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> Done
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> Flush
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> Function1
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> HashMap
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> List
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> Nil
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> Predef
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ReduceActor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> String
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> actor
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> actorRef2Scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> akka
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> apply
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> asInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> collection
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> com
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> config
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> contains
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> context
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> getInt
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> immutable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> isInstanceOf
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> load
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> mutable
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> name
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> ne
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> package
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> parent
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> path
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> println
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> reduceMap
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> remainingMappers
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> remainingMappers_=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> scala
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> self
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> share
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> title
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> toStringWithoutAddress
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> typesafe
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> unchecked
+product stamps:
+40 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\Client$.class -> lastModified(1461100042162)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\Client$delayedInit$body.class -> lastModified(1461100042166)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\Client.class -> lastModified(1461100042098)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor$$anonfun$1.class -> lastModified(1461100042213)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1461100042225)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor$$anonfun$receive$1.class -> lastModified(1461100042222)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\client\ClientActor.class -> lastModified(1461100042207)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MapReduceApplication$.class -> lastModified(1461100042232)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MapReduceApplication$delayedInit$body.class -> lastModified(1461100042234)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MapReduceApplication.class -> lastModified(1461100042227)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$1.class -> lastModified(1461100042248)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$2.class -> lastModified(1461100042261)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1461100042263)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1461100042265)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$3.class -> lastModified(1461100042268)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$4.class -> lastModified(1461100042271)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor$$anonfun$receive$1.class -> lastModified(1461100042258)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\server\MasterActor.class -> lastModified(1461100042245)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddMapper$.class -> lastModified(1461100042289)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddMapper.class -> lastModified(1461100042286)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddReducer$.class -> lastModified(1461100042299)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\AddReducer.class -> lastModified(1461100042297)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Done$.class -> lastModified(1461100042304)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Done.class -> lastModified(1461100042301)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Flush$.class -> lastModified(1461100042308)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Flush.class -> lastModified(1461100042305)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\GetReducer$.class -> lastModified(1461100042310)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\GetReducer.class -> lastModified(1461100042316)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor$$anonfun$process$1.class -> lastModified(1461100042328)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1461100042335)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor$$anonfun$receive$1.class -> lastModified(1461100042333)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\MapActor.class -> lastModified(1461100042324)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Message$.class -> lastModified(1461100042338)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Message.class -> lastModified(1461100042346)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Pair$.class -> lastModified(1461100042349)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Pair.class -> lastModified(1461100042357)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\ReduceActor$$anonfun$receive$1.class -> lastModified(1461100042366)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\ReduceActor.class -> lastModified(1461100042363)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Start$.class -> lastModified(1461100042370)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\target\scala-2.11\classes\share\Start.class -> lastModified(1461100042368)
+source stamps:
+7 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> hash(7d5528826bf6e308752c8440fbe97ae0d199fe62)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> hash(2f94383799526a696e4ba933d69e3c0e267a37cd)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> hash(1c66c5913dff7ac5e6991ef6722d509781681933)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> hash(ce00605ba78b79fb2c1984fcbc383fe9e042efaa)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> hash(40680a68c90933e27f8ac9d3f31dc9dd139f2ea3)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> hash(d6e75623dea6c663f0b98887c8ab5a06a3e1fb86)
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> hash(d10cf7de36affa0d60c39c67f2946f2efe666261)
+binary stamps:
+5 items
+C:\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1416892106191)
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar -> lastModified(1459511187000)
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar -> lastModified(1459511455000)
+C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> lastModified(1431099969000)
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+5 items
+C:\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar -> akka.actor.Actor
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.3.jar -> akka.remote.routing.RemoteRouterConfig
+C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Serializable
+internal apis:
+7 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAhR5MyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEWoTP90AAZub3RpZnlzcQB+AAwqSGRSdAAEd2FpdHNxAH4ADCsZg2J0AA0kYXNJbnN0YW5jZU9mc3EAfgAMMg2+xHQABnN5c3RlbXNxAH4ADGRmDWZ0AAZlcXVhbHNzcQB+AAwbmpL0dAAMYXNJbnN0YW5jZU9mc3EAfgAMdk/XnHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMhy+DcnQADHN5bmNocm9uaXplZHNxAH4ADB1F3Px0AA0kaXNJbnN0YW5jZU9mc3EAfgAMVUeONnQABG1haW5zcQB+AAz/brrBdAAJbm90aWZ5QWxsc3EAfgAMbuw0YXQADGlzSW5zdGFuY2VPZnNxAH4ADGmqPKx0AAI9PXNxAH4ADL9u4it0AAVjbG9uZXNxAH4ADIhc4UB0AAZjbGllbnRzcQB+AAw+QYBKdAAIdG9TdHJpbmdzcQB+AAyrdsADdAAEYXJnc3NxAH4ADNiN+gp0AAIhPXNxAH4ADJLF+gp0AAhnZXRDbGFzc3NxAH4ADKvpEux0AAZDbGllbnRzcQB+AAxb0rrpdAACbmVzcQB+AAzogiWydAACZXFzcQB+AAxbjH1AdAALZGVsYXllZEluaXRzcQB+AAzo+miidAACIyNzcQB+AAyipTw7dAAIZmluYWxpemVzcQB+AAxqW9IadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANY2xpZW50LkNsaWVudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGUAcHNxAH4AanNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AG5zcQB+AGUAcHNxAH4AanVxAH4ARgAAAABzcQB+AGUAcHNxAH4AanVxAH4ARgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATHEAfgBVdXEAfgBWAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ae3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AFgAcQB+ACF1cQB+AFsAAAAAc3EAfgCIdAAEVW5pdHEAfgCOdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ae3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXnQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AG1zcQB+AIh0AAVBcnJheXEAfgCOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIh0AAZTdHJpbmdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUdAAEamF2YXNxAH4AlHQABGxhbmdxAH4AmXNxAH4AZQBwc3EAfgBqdXEAfgCwAAAABHNxAH4AiHQAA0FwcHEAfgCOc3EAfgCIdAALRGVsYXllZEluaXRxAH4AjnNxAH4AiHQABk9iamVjdHEAfgC0c3EAfgCIdAADQW55cQB+AI51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjbGllbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVQwWT2ydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATkQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHczXGxjXHJlbW90ZV9tYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFH1VKIJr9uMIdSyEQPvpeuDRmf5i
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA/H1QQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwSfW/onQABHNlbGZzcQB+AAup3xWZdAAHY29udGV4dHVxAH4ACQAAAChzcQB+AAu0M/QJdAAGbm90aWZ5c3EAfgALMNjZY3QAB1JlY2VpdmVzcQB+AAt2mGLldAALQ2xpZW50QWN0b3JzcQB+AAt5xrZAdAAEd2FpdHNxAH4ACyvdmG10AA0kYXNJbnN0YW5jZU9mc3EAfgALqjTskXQABm1hc3RlcnNxAH4AC+dHgdV0AAZlcXVhbHNzcQB+AAsr+3iCdAAJbWFwQWN0b3Jzc3EAfgALrEkss3QADGFzSW5zdGFuY2VPZnNxAH4AC0uPzKR0ABNudW1iZXJSZW1vdGVNYXBwZXJzc3EAfgALvPy+T3QADHN5bmNocm9uaXplZHNxAH4AC8R6cdZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAL3fPbwXQAB3JlY2VpdmVzcQB+AAspmdvLdAAKcHJlUmVzdGFydHNxAH4AC6oapRN0AA1hcm91bmRSZWNlaXZlc3EAfgALj58Uk3QAC3Bvc3RSZXN0YXJ0c3EAfgALVBZF3XQACHBvc3RTdG9wc3EAfgALbrp7bXQACW5vdGlmeUFsbHNxAH4ACzB70R10ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC/qGXIl0AAxpc0luc3RhbmNlT2ZzcQB+AAu1NDZKdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC3AxymJ0AA5hcm91bmRQb3N0U3RvcHNxAH4ACzxosYd0AAY8aW5pdD5zcQB+AAsE3SEfdAAIcHJlU3RhcnRzcQB+AAuRcplxdAAJdW5oYW5kbGVkc3EAfgALJE5SonQAAj09c3EAfgALjvYuw3QABWNsb25lc3EAfgALg5RTuXQAFG51bWJlclJlbW90ZVJlZHVjZXJzc3EAfgALLkEM3XQABnNlbmRlcnNxAH4AC9Dy89h0AAh0b1N0cmluZ3NxAH4AC6TCKsJ0AAIhPXNxAH4AC837kQ50AAhnZXRDbGFzc3NxAH4ACy98oNx0AAJuZXNxAH4ACxHDHDV0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtRP9+gdAACZXFzcQB+AAvKdraRdAAMcmVkdWNlQWN0b3Jzc3EAfgALwSE71XQAAiMjc3EAfgALwDsnSHQACGZpbmFsaXplc3EAfgALSVABqXQACGhhc2hDb2Rlc3EAfgALozhqQXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aa3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEmNsaWVudC5DbGllbnRBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AhHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgwBwc3EAfgCIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGtMAAlpbmhlcml0ZWRxAH4Aa0wAB3BhcmVudHNxAH4Aa3hxAH4AjHNxAH4AgwBwc3EAfgCIdXEAfgBmAAAAAHNxAH4AgwBwc3EAfgCIdXEAfgBmAAAAAHNxAH4AgwBwc3EAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCLdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AItzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKh0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgCcdAAGT2JqZWN0c3EAfgCgc3EAfgCjdXEAfgCmAAAAA3NxAH4AqHQABGphdmFzcQB+AKh0AARsYW5ncQB+AK9zcQB+AJx0AANBbnlzcQB+AKBzcQB+AKN1cQB+AKYAAAACc3EAfgCodAAFc2NhbGFxAH4Ar3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABmNsaWVudHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVDBZPbJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABORDpcUmVwb3NpdG9yaWVzXHNjYWxhXGNzYzUzNlxodzNcbGNccmVtb3RlX21hcHJlZHVjZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUL5Q4N5lSamluS6kz1p48DiZ6N80=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAbCc0pAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOPDhSF0AAZub3RpZnlzcQB+AAybCBGqdAAEd2FpdHNxAH4ADNshONx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMId/PUnQABnN5c3RlbXNxAH4ADKTBzF50AAZtYXN0ZXJzcQB+AAxLfhEhdAAGZXF1YWxzc3EAfgAMa5Cmz3QADGFzSW5zdGFuY2VPZnNxAH4ADK2wWDd0AA5leGVjdXRpb25TdGFydHNxAH4ADPRIrqp0AAxzeW5jaHJvbml6ZWRzcQB+AAwje2CIdAANJGlzSW5zdGFuY2VPZnNxAH4ADPZS54J0AARtYWluc3EAfgAMTq+M8HQACW5vdGlmeUFsbHNxAH4ADE9auVB0AAxpc0luc3RhbmNlT2ZzcQB+AAwTfUf9dAACPT1zcQB+AAz3PT/UdAAFY2xvbmVzcQB+AAwA06JIdAAIdG9TdHJpbmdzcQB+AAz3kS+ndAAEYXJnc3NxAH4ADK0Q4zp0AAIhPXNxAH4ADCFJRmB0AAhnZXRDbGFzc3NxAH4ADOM7y1V0ABRNYXBSZWR1Y2VBcHBsaWNhdGlvbnNxAH4ADPrjv4F0AAJuZXNxAH4ADMP3TYd0AAJlcXNxAH4ADNrTIQx0AAtkZWxheWVkSW5pdHNxAH4ADGOwL5x0AAIjI3NxAH4ADJv8QuZ0AAhmaW5hbGl6ZXNxAH4ADJJhddF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABtzZXJ2ZXIuTWFwUmVkdWNlQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBmeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlAHBzcQB+AGpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBuc3EAfgBlAHBzcQB+AGp1cQB+AEYAAAAAc3EAfgBlAHBzcQB+AGp1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgBYAHEAfgAjdXEAfgBbAAAAAHNxAH4AiHQABFVuaXRxAH4AjnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF50AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBtc3EAfgCIdAAFQXJyYXlxAH4AjnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCIdAAGU3RyaW5nc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABGphdmFzcQB+AJR0AARsYW5ncQB+AJlzcQB+AGUAcHNxAH4AanVxAH4AsAAAAARzcQB+AIh0AANBcHBxAH4AjnNxAH4AiHQAC0RlbGF5ZWRJbml0cQB+AI5zcQB+AIh0AAZPYmplY3RxAH4AtHNxAH4AiHQAA0FueXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGc2VydmVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUMFk9snVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE5EOlxSZXBvc2l0b3JpZXNcc2NhbGFcY3NjNTM2XGh3M1xsY1xyZW1vdGVfbWFwcmVkdWNlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQcZsWRPf96xeaZHvZyLVCXgWgZMw==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDxF2MWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHicgaXQABHNlbGZzcQB+AAtJ9cNhdAAHY29udGV4dHVxAH4ACQAAACxzcQB+AAsR+kkxdAAGbm90aWZ5c3EAfgALF5l2IXQAB1JlY2VpdmVzcQB+AAvNAvgRdAAEd2FpdHNxAH4AC4yyR3l0AA0kYXNJbnN0YW5jZU9mc3EAfgALPT+yAHQABmVxdWFsc3NxAH4AC900+v50AAdjbGllbnRzc3EAfgALcT1Nb3QACW1hcEFjdG9yc3NxAH4AC9SxG/90AAxhc0luc3RhbmNlT2ZzcQB+AAvqognzdAATbnVtYmVyUmVtb3RlTWFwcGVyc3NxAH4AC+yt/El0AA5hY3RvckJyb2FkQ2FzdHNxAH4AC1pR9Hd0AAxzeW5jaHJvbml6ZWRzcQB+AAtxCmQ4dAANJGlzSW5zdGFuY2VPZnNxAH4AC9NOk8B0AAdyZWNlaXZlc3EAfgALH0GPgXQACnByZVJlc3RhcnRzcQB+AAuH78f1dAANYXJvdW5kUmVjZWl2ZXNxAH4ACzvOK7d0AA1udW1iZXJNYXBwZXJzc3EAfgALv5IFE3QAC3Bvc3RSZXN0YXJ0c3EAfgALH1aj93QACHBvc3RTdG9wc3EAfgALjyQ8+XQAC01hc3RlckFjdG9yc3EAfgALHsvngXQACW5vdGlmeUFsbHNxAH4AC2OJymZ0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACwpLNaN0AAxpc0luc3RhbmNlT2ZzcQB+AAvb9hRZdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC7NUY8J0AA5hcm91bmRQb3N0U3RvcHNxAH4AC9rBOjJ0AAY8aW5pdD5zcQB+AAuOt2zBdAAIcHJlU3RhcnRzcQB+AAsayxmZdAAJdW5oYW5kbGVkc3EAfgALgixLfHQAAj09c3EAfgAL0GfpNnQABWNsb25lc3EAfgALEfjrmnQAFG51bWJlclJlbW90ZVJlZHVjZXJzc3EAfgALe4sR6nQABnNlbmRlcnNxAH4AC2/z59V0AAh0b1N0cmluZ3NxAH4ACxKFtot0AAIhPXNxAH4AC/dpysN0AAhnZXRDbGFzc3NxAH4AC5EQHZN0AAJuZXNxAH4AC+8yuWp0AAdwZW5kaW5nc3EAfgALD5VvkXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC6OJ5QN0AAJlcXNxAH4ACy2xLGx0AAxyZWR1Y2VBY3RvcnNzcQB+AAsiNZG8dAACIyNzcQB+AAtht4WEdAAIZmluYWxpemVzcQB+AAuT7LVWdAAIaGFzaENvZGVzcQB+AAsDVLomdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAtuGWjrdAAObnVtYmVyUmVkdWNlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASc2VydmVyLk1hc3RlckFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCMeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCLAHBzcQB+AJBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ac0wACWluaGVyaXRlZHEAfgBzTAAHcGFyZW50c3EAfgBzeHEAfgCUc3EAfgCLAHBzcQB+AJB1cQB+AG4AAAAAc3EAfgCLAHBzcQB+AJB1cQB+AG4AAAAAc3EAfgCLAHBzcQB+AJB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJN0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ak3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AsHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALFzcQB+AKR0AAZPYmplY3RzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwdAAEamF2YXNxAH4AsHQABGxhbmdxAH4At3NxAH4ApHQAA0FueXNxAH4AqHNxAH4Aq3VxAH4ArgAAAAJzcQB+ALB0AAVzY2FsYXEAfgC3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAGc2VydmVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUMFk9snVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE5EOlxSZXBvc2l0b3JpZXNcc2NhbGFcY3NjNTM2XGh3M1xsY1xyZW1vdGVfbWFwcmVkdWNlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTOAGBbp4t5+ywZhPy8OD/p4ELvqg==
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAoMoXdAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw48pMlHQABHNlbGZzcQB+AAv8ty+tdAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAtXQhxMdAAGbm90aWZ5c3EAfgAL6P0mQ3QAB1JlY2VpdmVzcQB+AAvOC5RydAAEd2FpdHNxAH4AC0eDshh0AA0kYXNJbnN0YW5jZU9mc3EAfgALKJZQ3XQABmVxdWFsc3NxAH4AC5h32bd0AAdwcm9jZXNzc3EAfgALZfOD33QADGFzSW5zdGFuY2VPZnNxAH4AC6zGDMd0AAxzeW5jaHJvbml6ZWRzcQB+AAv5+/zldAAHaGFzaG1hcHNxAH4ACyI6lTx0AA0kaXNJbnN0YW5jZU9mc3EAfgALtwYxUHQAB3JlY2VpdmVzcQB+AAtPniP3dAAKcHJlUmVzdGFydHNxAH4AC5nJaR90AA1hcm91bmRSZWNlaXZlc3EAfgALM2CSenQAC3Bvc3RSZXN0YXJ0c3EAfgALeIxQs3QAD1NUT1BfV09SRFNfTElTVHNxAH4AC76bDUF0AAhwb3N0U3RvcHNxAH4AC5nDMf10AAlub3RpZnlBbGxzcQB+AAsUguXidAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAu20YL/dAAMaXNJbnN0YW5jZU9mc3EAfgALIdSxPnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsJvk8xdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAt9kUxjdAAGPGluaXQ+c3EAfgALyiXPdnQACHByZVN0YXJ0c3EAfgALEHT59XQACXVuaGFuZGxlZHNxAH4AC8SQpSh0AAhNYXBBY3RvcnNxAH4AC9QMJ/l0AAI9PXNxAH4AC2FqD9B0AAVjbG9uZXNxAH4AC6/pqBF0AAZzZW5kZXJzcQB+AAuPL314dAAIdG9TdHJpbmdzcQB+AAu06nSIdAACIT1zcQB+AAuTD3V/dAAIZ2V0Q2xhc3NzcQB+AAv/VzRIdAACbmVzcQB+AAveIxRddAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALyW0rnnQAAmVxc3EAfgALv5wiKHQAAiMjc3EAfgAL1ajpmHQACGZpbmFsaXplc3EAfgALR6cogHQACGhhc2hDb2Rlc3EAfgALJ42vWXQADmFyb3VuZFByZVN0YXJ0c3EAfgALbsp+nHQAC251bVJlZHVjZXJzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADnNoYXJlLk1hcEFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCCeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCBAHBzcQB+AIZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCKc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIl0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4ApnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKdzcQB+AJp0AAZPYmplY3RzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmdAAEamF2YXNxAH4ApnQABGxhbmdxAH4ArXNxAH4AmnQAA0FueXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZ0AAVzY2FsYXEAfgCtdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAFc2hhcmVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVQwWT2ydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATkQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHczXGxjXHJlbW90ZV9tYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEBoCmjJCTPif4rJ0/Mdyd0Tny6j
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCGSkoBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGODVzN0AAZub3RpZnlzcQB+AAyXulcjdAAFYWN0b3JzcQB+AAykQTZjdAAEbmFtZXNxAH4ADMq1MB10AAR3YWl0c3EAfgAM+u/NMnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMkb2LgHQADSRhc0luc3RhbmNlT2ZzcQB+AAyu7+pudAAMcHJvZHVjdEFyaXR5c3EAfgAMMmdMvXQAA3VybHNxAH4ADOfLubt0AAZlcXVhbHNzcQB+AAy2n5QZdAAMYXNJbnN0YW5jZU9mc3EAfgAMo+CyK3QADHN5bmNocm9uaXplZHNxAH4ADPVRfnF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMuigS7HQABUZsdXNoc3EAfgAM/IfbN3QACGNhbkVxdWFsc3EAfgAM7IED6XQABVN0YXJ0c3EAfgAMt0gsonQADXByb2R1Y3RQcmVmaXhzcQB+AAzRTKZndAAJbm90aWZ5QWxsc3EAfgAMLAIzxnQAC3JlYWRSZXNvbHZlc3EAfgAM9izegHQABERvbmVzcQB+AAyhB0G9dAAJQWRkTWFwcGVyc3EAfgAMIetdMXQADGlzSW5zdGFuY2VPZnNxAH4ADGku9Kd0AAY8aW5pdD5zcQB+AAyuQZ1NdAACPT1zcQB+AAwpi09tdAAFY2xvbmVzcQB+AAzqP1qwdAAGY2xpZW50c3EAfgAMDN23vnQABmFjdG9yc3NxAH4ADJjFu310AAdNZXNzYWdlc3EAfgAMlaTsvHQABGNvcHlzcQB+AAyqOCwFdAAIdG9TdHJpbmdzcQB+AAxPm8QpdAACIT1zcQB+AAwue2YVdAAKQWRkUmVkdWNlcnNxAH4ADD2Reyl0AAhnZXRDbGFzc3NxAH4ADBkZcyZ0AAV0aXRsZXNxAH4ADAmzp110AA5jb3B5JGRlZmF1bHQkMXNxAH4ADLsqSgZ0AAJuZXNxAH4ADIhou2V0AAJlcXNxAH4ADMseiFx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzMxzvRdAACIyNzcQB+AAx7clDHdAAIZmluYWxpemVzcQB+AAzYc27LdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxMLvhMdAAIaGFzaENvZGVzcQB+AAwAeaggdAAKR2V0UmVkdWNlcnNxAH4ADNploK10AARQYWlyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAACHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AbXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADXNoYXJlLk1lc3NhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIUAcHNxAH4AinNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBtTAAJaW5oZXJpdGVkcQB+AG1MAAdwYXJlbnRzcQB+AG14cQB+AI5zcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aq3NxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnQABGphdmFzcQB+AKp0AAJpb3EAfgCvc3EAfgCedAAHUHJvZHVjdHEAfgCkc3EAfgCedAAGRXF1YWxzcQB+AKRzcQB+AJ50AAZPYmplY3RzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKp0AARsYW5ncQB+AK9zcQB+AJ50AANBbnlxAH4ApHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0AApzaGFyZS5QYWlydXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAABnNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgCtcQB+AK9zcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ5xAH4AuXEAfgDbc3EAfgCedAAGRXF1YWxzcQB+ANtzcQB+AJ5xAH4AvXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnEAfgDDcQB+AK9zcQB+AJ5xAH4AxXEAfgDbc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQAD3NoYXJlLkFkZE1hcHBlcnVxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAAZzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4ArXEAfgCvc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKp0AAJpb3EAfgCvc3EAfgCecQB+ALlxAH4BBXNxAH4AnnQABkVxdWFsc3EAfgEFc3EAfgCecQB+AL1zcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKpxAH4Aw3EAfgCvc3EAfgCecQB+AMVxAH4BBXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ABBzaGFyZS5BZGRSZWR1Y2VydXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAABnNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgCtcQB+AK9zcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ5xAH4AuXEAfgEvc3EAfgCedAAGRXF1YWxzcQB+AS9zcQB+AJ5xAH4AvXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnEAfgDDcQB+AK9zcQB+AJ5xAH4AxXEAfgEvc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQAEHNoYXJlLkdldFJlZHVjZXJ1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAGc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+AK1xAH4Ar3NxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqdAACaW9xAH4Ar3NxAH4AnnEAfgC5cQB+AVlzcQB+AJ50AAZFcXVhbHNxAH4BWXNxAH4AnnEAfgC9c3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqcQB+AMNxAH4Ar3NxAH4AnnEAfgDFcQB+AVlzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoAdAALc2hhcmUuU3RhcnR1cQB+AH0AAAAAfnEAfgB/dAAGTW9kdWxldXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAABnNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgCtcQB+AK9zcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ5xAH4AuXEAfgGFc3EAfgCedAAGRXF1YWxzcQB+AYVzcQB+AJ5xAH4AvXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnEAfgDDcQB+AK9zcQB+AJ5xAH4AxXEAfgGFc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQAC3NoYXJlLkZsdXNodXEAfgB9AAAAAHEAfgFzdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAABnNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgCtcQB+AK9zcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ5xAH4AuXEAfgGvc3EAfgCedAAGRXF1YWxzcQB+Aa9zcQB+AJ5xAH4AvXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnEAfgDDcQB+AK9zcQB+AJ5xAH4AxXEAfgGvc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQACnNoYXJlLkRvbmV1cQB+AH0AAAAAcQB+AXN1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAGc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+AK1xAH4Ar3NxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqdAACaW9xAH4Ar3NxAH4AnnEAfgC5cQB+AdlzcQB+AJ50AAZFcXVhbHNxAH4B2XNxAH4AnnEAfgC9c3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqcQB+AMNxAH4Ar3NxAH4AnnEAfgDFcQB+Adl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVzaGFyZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVDBZPbJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABORDpcUmVwb3NpdG9yaWVzXHNjYWxhXGNzYzUzNlxodzNcbGNccmVtb3RlX21hcHJlZHVjZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1udWI96mxmPwuYiHyKtaBqPh+4Y=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAkYssFAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwlXsrknQABHNlbGZzcQB+AAuj2nPidAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAvESW6AdAAGbm90aWZ5c3EAfgALsVzc7XQAB1JlY2VpdmVzcQB+AAtOv8nXdAAEd2FpdHNxAH4AC0twogJ0AA0kYXNJbnN0YW5jZU9mc3EAfgALEaDwZ3QABmVxdWFsc3NxAH4AC4wmgMt0AAtSZWR1Y2VBY3RvcnNxAH4AC0NUH4l0AAxhc0luc3RhbmNlT2ZzcQB+AAs0+YG9dAAMc3luY2hyb25pemVkc3EAfgALcdKm23QADSRpc0luc3RhbmNlT2ZzcQB+AAty8GmudAAHcmVjZWl2ZXNxAH4ACxj7Ytx0AApwcmVSZXN0YXJ0c3EAfgALzQGG+HQADWFyb3VuZFJlY2VpdmVzcQB+AAtdPdHFdAALcG9zdFJlc3RhcnRzcQB+AAuDBb5odAAIcG9zdFN0b3BzcQB+AAsP/6UtdAAJbm90aWZ5QWxsc3EAfgALNm2jfXQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALhddN0XQADGlzSW5zdGFuY2VPZnNxAH4AC2Xi71l0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALm+sVo3QADmFyb3VuZFBvc3RTdG9wc3EAfgALJBY6mnQABjxpbml0PnNxAH4ACxRYnHR0AAhwcmVTdGFydHNxAH4AC8JRgEN0AAl1bmhhbmRsZWRzcQB+AAtkiv6JdAACPT1zcQB+AAt97ZUzdAAFY2xvbmVzcQB+AAtpQXvVdAAGc2VuZGVyc3EAfgALNv0GBnQACHRvU3RyaW5nc3EAfgALsEqH+nQAAiE9c3EAfgALyrxtG3QACGdldENsYXNzc3EAfgALeLM6l3QAAm5lc3EAfgALPpXJh3QAEHJlbWFpbmluZ01hcHBlcnNzcQB+AAuEWMTddAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALZ/nfRHQAAmVxc3EAfgALra4khHQAAiMjc3EAfgALEd3//HQACGZpbmFsaXplc3EAfgALN6iUpHQACGhhc2hDb2Rlc3EAfgALti5+2XQACXJlZHVjZU1hcHNxAH4AC0aNNPZ0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABFzaGFyZS5SZWR1Y2VBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Afnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfQBwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhnNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCFdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKJ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCjc3EAfgCWdAAGT2JqZWN0c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AARsYW5ncQB+AKlzcQB+AJZ0AANBbnlzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCidAAFc2NhbGFxAH4AqXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABXNoYXJlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUMFk9snVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE5EOlxSZXBvc2l0b3JpZXNcc2NhbGFcY3NjNTM2XGh3M1xsY1xyZW1vdGVfbWFwcmVkdWNlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTRDPfeNq/6DWDDnGfylG8u/mZiYQ==
+external apis:
+0 items
+source infos:
+7 items
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\client.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\client\clientActor.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\mapreduceapplication.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\server\masteractor.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\mapactor.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\messages.scala -> 
+AAAAAAAAAAA=
+D:\Repositories\scala\csc536\hw3\lc\remote_mapreduce\src\main\scala\share\reduceactor.scala -> 
+AAAAAAAAAAA=
+compilations:
+33 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTM/VdKp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNMxwLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNMyaCF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNM4xb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNM9tNF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNNCD4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNNHXGR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNNIfPB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNNLAg11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNNMbKh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNdDvsx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0Q6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNhVxAh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNhoaQ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNyMH9d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN684Xx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN7Bvnh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN7FLZR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN7GNJl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN7KXZt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOH59Zd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOH6D+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOIJFYp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOIVv8J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOIXNaR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOJZAwx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOJsG/h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOJx4TV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOJx6dl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOJ3thN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOKBTap1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOKESsR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XFN0dWR5XENTQyA1MzZcd2VlazNcY29kZVxtYXByZWR1Y2VSTVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVBesU8V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHczXGxjXG1hcHJlZHVjZVJNXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVDBZPbJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkQ6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcaHczXGxjXHJlbW90ZV9tYXByZWR1Y2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

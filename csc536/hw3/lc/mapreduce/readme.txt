@@ -1,8 +1,5 @@
-Here is the part one of HW3.
-Just in the folder.
-Run the sbt.
-And then use the "run".
-We can get the result. From the terminal.
+This is the part one.
+Use the sbt to compile and run.
+The results will be printed in terminal.
 
---Chen Luo
 
