@@ -1,0 +1,118 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -unchecked
+3 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes\Client$.class
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes\Client$delayedInit$body.class
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes\Client.class
+binary dependencies:
+4 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> C:\Java\jdk1.8.0_25\jre\lib\rt.jar
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> Client
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> Client$
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> Client$delayedInit$body
+used names:
+27 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> !
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> <init>
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> Actor
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> ActorLogging
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> ActorSelection
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> ActorSystem
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> App
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> Client
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> ConfigFactory
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> Predef
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> actor
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> actorSelection
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> akka
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> apply
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> com
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> config
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> getConfig
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> joe
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> load
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> println
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> qual$1
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> scala
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> system
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> toScala
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> typesafe
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> x$1
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> x$2
+product stamps:
+3 items
+D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes\Client$.class -> lastModified(1462724610064)
+D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes\Client$delayedInit$body.class -> lastModified(1462724610069)
+D:\Repositories\scala\csc536\sample\remote\client\target\scala-2.11\classes\Client.class -> lastModified(1462724609988)
+source stamps:
+1 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> hash(cf111412c5fd6b098b8cea686fe1adb86d63a56c)
+binary stamps:
+4 items
+C:\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1416892106191)
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar -> lastModified(1459511187000)
+C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> lastModified(1431099969000)
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+4 items
+C:\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Shawn\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.3.jar -> akka.actor.ActorLogging
+C:\Users\Shawn\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.App
+internal apis:
+1 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDKSvh5AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF8e0xx0AAZub3RpZnlzcQB+AAyVPkINdAAEd2FpdHNxAH4ADPPk6yV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMUhOMXHQABnN5c3RlbXNxAH4ADEB3zZx0AAZlcXVhbHNzcQB+AAx5lZe3dAAMYXNJbnN0YW5jZU9mc3EAfgAMOAx/8nQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMk10/TXQADHN5bmNocm9uaXplZHNxAH4ADNsgFcJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMsKYISHQABG1haW5zcQB+AAypq6qKdAAJbm90aWZ5QWxsc3EAfgAMakw5vXQADGlzSW5zdGFuY2VPZnNxAH4ADI0asp90AAI9PXNxAH4ADAQvkO50AAVjbG9uZXNxAH4ADDbz2At0AAh0b1N0cmluZ3NxAH4ADBTIIDF0AARhcmdzc3EAfgAML5IMm3QAAiE9c3EAfgAMF2zeP3QACGdldENsYXNzc3EAfgAMVc1i3HQAA2pvZXNxAH4ADC1o7Ax0AAZDbGllbnRzcQB+AAyOlAFidAACbmVzcQB+AAx/8p5gdAACZXFzcQB+AAyTbe4jdAALZGVsYXllZEluaXRzcQB+AAxG7DcwdAACIyNzcQB+AAyXsZOEdAAIZmluYWxpemVzcQB+AAx0MWDydAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBleHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBkAHBzcQB+AGlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBtc3EAfgBkAHBzcQB+AGl1cQB+AEYAAAAAc3EAfgBkAHBzcQB+AGl1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHp4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgBYAHEAfgAhdXEAfgBaAAAAAHNxAH4Ah3QABFVuaXRxAH4AjXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnEAfgAtc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCIWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBsc3EAfgCHdAAFQXJyYXlxAH4AjXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCHdAAGU3RyaW5nc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3QABGphdmFzcQB+AJN0AARsYW5ncQB+AJhzcQB+AGQAcHNxAH4AaXVxAH4ArwAAAARzcQB+AId0AANBcHBxAH4AjXNxAH4Ah3QAC0RlbGF5ZWRJbml0cQB+AI1zcQB+AId0AAZPYmplY3RxAH4As3NxAH4Ah3QAA0FueXEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVSRLjdfdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0Q6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcc2FtcGxlXHJlbW90ZVxjbGllbnRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM8RFBLF/WsJi4zqaG/hrbhtY6Vs
+external apis:
+0 items
+source infos:
+1 items
+D:\Repositories\scala\csc536\sample\remote\client\src\main\scala\client.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVJEuN191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0Q6XFJlcG9zaXRvcmllc1xzY2FsYVxjc2M1MzZcc2FtcGxlXHJlbW90ZVxjbGllbnRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
