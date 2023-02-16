@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/D:/Shawn/Code/scala/leetcode/]" external.linked.project.path="$MODULE_DIR$/../../leetcode" external.root.project.path="$MODULE_DIR$/../../leetcode" external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_X">
+    <output url="file://$MODULE_DIR$/../../leetcode/target/scala-2.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../leetcode/target/scala-2.13/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../leetcode">
+      <sourceFolder url="file://$MODULE_DIR$/../../leetcode/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../leetcode/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../leetcode/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../leetcode/project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.10:jar" level="project" />
+  </component>
+</module>
