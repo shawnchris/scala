@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/csc536/sample/filesize/filesize.iml" filepath="$PROJECT_DIR$/csc536/sample/filesize/filesize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csc536/sample/first/first.iml" filepath="$PROJECT_DIR$/csc536/sample/first/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive-stocks/reactive-stocks.iml" filepath="$PROJECT_DIR$/reactive-stocks/reactive-stocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scala.iml" filepath="$PROJECT_DIR$/.idea/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csc536/sample/threads/threads.iml" filepath="$PROJECT_DIR$/csc536/sample/threads/threads.iml" />
+    </modules>
+  </component>
+</project>
