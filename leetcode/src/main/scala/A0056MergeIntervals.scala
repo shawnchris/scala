@@ -1,7 +1,7 @@
 class A0056MergeIntervals extends App {
   def merge(intervals: Array[Array[Int]]): Array[Array[Int]] = {
     var results: Array[Array[Int]] = Array()
-    val sortedIntervals = intervals.sorted((a: Array[Int], b: Array[Int]) => (a(0) - b(0)))
+    val sortedIntervals = intervals.sorted((a: Array[Int], b: Array[Int]) => a(0) - b(0))
     var start = sortedIntervals(0)(0)
     var end = sortedIntervals(0)(1)
     for (i <- 1 until sortedIntervals.length) {
