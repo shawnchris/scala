@@ -1,4 +1,4 @@
-class A0049GroupAnagrams extends App {
+object A0049GroupAnagrams extends App {
   def groupAnagrams(strs: Array[String]): List[List[String]] = {
     if (strs.length == 0) {
       return List()

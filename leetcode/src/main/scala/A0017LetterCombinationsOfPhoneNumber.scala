@@ -1,6 +1,6 @@
 import scala.collection.mutable
 
-class A0017LetterCombinationsOfPhoneNumber extends App {
+object A0017LetterCombinationsOfPhoneNumber extends App {
   def letterCombinations(digits: String): List[String] = {
     val dict = Array("", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz")
     val results = scala.collection.mutable.ListBuffer.empty[String]
